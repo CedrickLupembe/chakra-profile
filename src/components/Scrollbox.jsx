@@ -9,7 +9,7 @@ import links from '../Social/Links'
 
 const scrollbox = () => {
   return (
-    
+
     <>
         <Box 
             w={['100%', '100%', '65%']} 
@@ -166,7 +166,7 @@ const scrollbox = () => {
 
                             <Flex justify={'space-between'} align={'center'}>
                                 <Box>
-                                    <Heading as='h4' fontSize={['15px', '18px', '18px']}>@Fongo-Laboratory</Heading>
+                                    <Heading as='h4' fontSize={['15px', '18px', '18px']}>@FongoLab</Heading>
                                     <Text as='h5' fontSize={['12px', '12px', '14px']} m={['5px', 2, 2]} color='blackAlpha.600'>Full Stack Software Developer</Text>
                                 </Box>
                                 <Heading as='h6' fontSize={['10px', '12px', '12px']} mt={'13px'} color='blackAlpha.600'>Mar 2020 — Mai 2022 // Bujumbura, BU</Heading>
